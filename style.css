@@ -1,0 +1,36 @@
+*{
+    /* background-color: beige; */
+    justify-content: center;
+    text-align: center;
+   
+}
+ 
+.container{
+    justify-content: center;
+    /* border: 1px solid red; */
+    width: 95%;
+    height: 65vh;
+    display: flex;
+    text-align: center;
+    background: rgb(108, 181, 190);
+   
+}
+
+.quotes{
+    /* border: 3px solid black; */
+    width: 80vh;
+    height: 60vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* color: grey; */
+    background-color: #f4edea;
+
+
+
+}
+
+/* .button{
+    background-color:white;
+} */
